@@ -1,0 +1,11 @@
+GPOName,Type,Description
+GPO-User-SecuritySettings,User,Enforces software restrictions
+GPO-Computer-AuditPolicy,Computer,Configures audit policies
+GPO-User-SoftwareDeployment,User,Configures login scripts
+GPO-User-DesktopRestrictions,User,Restricts desktop settings
+GPO-User-PasswordPolicy,User,Enforces password policies
+GPO-Computer-DesktopRestrictions,Computer,Manages system services
+GPO-Computer-PasswordPolicy,Computer,Deploys software updates
+GPO-User-AuditPolicy,User,Enforces password policies
+GPO-Computer-SecuritySettings,Computer,Deploys software updates
+GPO-Computer-SoftwareDeployment,Computer,Deploys software updates
